@@ -91,3 +91,9 @@ YouTube는 구독 페이지의 각 영상 카드 요소에 원본 데이터(길�
 - 게시 시각은 "3일 전" 같은 문구로 추정합니다. YouTube 표시 언어가 한국어나 영어가 아니면 기간 필터가 동작하지 않습니다.
 - 폴더와 채널 목록은 브라우저 안(`chrome.storage.local`)에만 저장됩니다. 확장을 제거하면 함께 지워집니다.
 - 필요한 권한은 `storage`, `unlimitedStorage`, 그리고 `youtube.com` 접근입니다. 데이터를 외부로 보내지 않습니다.
+
+## 라이선스
+
+[MIT](LICENSE)
+
+YouTube는 Google LLC의 상표이며, 이 프로젝트는 Google이나 YouTube와 관련이 없습니다.
